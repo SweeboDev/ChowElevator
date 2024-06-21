@@ -17,7 +17,7 @@ client_scripts {
 
 
 dependencies {
-    'qb-core',
+   
     'ox_lib'
 }
 lua54 'yes'
